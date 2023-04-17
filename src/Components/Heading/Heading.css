@@ -1,0 +1,13 @@
+.Head{
+    width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aquamarine;
+}
+
+.heading{
+    margin-top: 50px;
+    margin-bottom: -60px;
+    text-transform: capitalize;
+}
